@@ -12,13 +12,13 @@ def pow(n):
         return(pow)
     
     
-def resul():
+def result():
     for s in n:
         r=fact/pow+s
-        return(resul)
+        return(result)
     
 
 
 
 
-    print(resul)
+    print(result)
