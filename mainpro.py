@@ -1,1 +1,1 @@
-n=input('n=')
+n = input('n=')
