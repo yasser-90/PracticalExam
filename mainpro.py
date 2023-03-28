@@ -22,3 +22,4 @@ def result():
 
 
     print(result)
+    print(result)
