@@ -19,7 +19,7 @@ sign = 1
 x = 2
 for i in range(1,int(n)+1,2):
     s+= sign*(factorial(i)/power(x, i))
-    print(sign*(factorial(i)/power(x, i)))
+    # print(sign*(factorial(i)/power(x, i)))
     sign*=-1
     print(i)
 
