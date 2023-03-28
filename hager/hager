@@ -1,0 +1,18 @@
+n=input('n=')
+x=input('x=')
+def power(x):
+    for i in range(n+1):
+        x=x^i
+
+
+def fact(n):
+    for i in range(n+1):
+        n1=n-1
+        n2=n1*i
+
+
+pr=pow(x)
+fa=fact(n)
+s=0
+s=fa/x^pr-fa/x^pr+fa/x^pr
+print(s)
