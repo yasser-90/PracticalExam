@@ -11,7 +11,7 @@ def pow(n):
         p=x^w
         return(pow)
     
-    
+        
 def result():
     for s in n:
         r=fact/pow+s
