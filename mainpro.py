@@ -3,7 +3,7 @@ n=input('n=')
 def fact(n):
     for m in n:
         y=m*n
-        return(fact)
+        return(fa ct)
 
 
 def pow(n):
