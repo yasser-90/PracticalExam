@@ -1,0 +1,14 @@
+
+n=input('n=')
+i=1
+def fact(n):
+    if n>i:
+        fact=n*i
+        return fact
+
+def power(n,i):
+    power=n**i
+    return power
+
+
+
